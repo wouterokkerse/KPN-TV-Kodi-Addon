@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <category label="30040">
+    <setting id="login_mode" type="enum" label="30041" lvalues="30042|30043" default="0"/>
+    <setting id="endpoint" type="enum" label="30044" values="AVS67|AWS|Legacy" default="0"/>
+    <setting type="lsep" label="30045"/>
+  </category>
+</settings>

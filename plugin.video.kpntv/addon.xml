@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.kpntv" name="KPN TV (unofficial)" version="0.1.0" provider-name="Community">
+  <requires>
+    <import addon="xbmc.python" version="3.0.1"/>
+    <import addon="inputstream.adaptive" version="20.3.0"/>
+    <import addon="script.module.inputstreamhelper" version="0.6.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py"><provides>video</provides></extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Unofficial KPN TV client — experimental</summary>
+    <summary lang="nl_NL">Onofficiële KPN TV-client — experimenteel</summary>
+    <description lang="en_GB">Live TV, replay, films, series and local saved lists. KPN subscription required. Login and playback require subscriber validation.</description>
+    <description lang="nl_NL">Live tv, terugkijken, films, series en lokale lijsten. KPN-abonnement vereist. Inloggen en afspelen moeten met een abonnement worden getest.</description>
+    <platform>all</platform>
+    <license>GPL-3.0-or-later</license>
+    <assets><icon>icon.png</icon></assets>
+  </extension>
+</addon>

@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "#30001"
+msgid "Live TV"
+msgstr ""
+
+msgctxt "#30002"
+msgid "Replay / TV guide"
+msgstr ""
+
+msgctxt "#30003"
+msgid "Films"
+msgstr ""
+
+msgctxt "#30004"
+msgid "Series"
+msgstr ""
+
+msgctxt "#30005"
+msgid "Search films and series"
+msgstr ""
+
+msgctxt "#30006"
+msgid "My list (this device)"
+msgstr ""
+
+msgctxt "#30007"
+msgid "Watch later (this device)"
+msgstr ""
+
+msgctxt "#30008"
+msgid "Sign in"
+msgstr ""
+
+msgctxt "#30009"
+msgid "Sign out"
+msgstr ""
+
+msgctxt "#30010"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30011"
+msgid "Export diagnostics"
+msgstr ""
+
+msgctxt "#30012"
+msgid "No items found."
+msgstr ""
+
+msgctxt "#30013"
+msgid "KPN ID email address"
+msgstr ""
+
+msgctxt "#30014"
+msgid "KPN ID password"
+msgstr ""
+
+msgctxt "#30015"
+msgid "TV subscription number"
+msgstr ""
+
+msgctxt "#30016"
+msgid "TV PIN"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Signed in."
+msgstr ""
+
+msgctxt "#30018"
+msgid "Sign in with your KPN subscription to continue."
+msgstr ""
+
+msgctxt "#30019"
+msgid "Error"
+msgstr ""
+
+msgctxt "#30020"
+msgid "KPN TV could not complete this request. Check your connection, subscription and API setting. This experimental version still needs subscriber testing."
+msgstr ""
+
+msgctxt "#30021"
+msgid "Add to My list"
+msgstr ""
+
+msgctxt "#30022"
+msgid "Add to Watch later"
+msgstr ""
+
+msgctxt "#30023"
+msgid "Remove from this list"
+msgstr ""
+
+msgctxt "#30024"
+msgid "List updated."
+msgstr ""
+
+msgctxt "#30025"
+msgid "Today"
+msgstr ""
+
+msgctxt "#30026"
+msgid "Widevine or InputStream Adaptive is unavailable on this device."
+msgstr ""
+
+msgctxt "#30027"
+msgid "Your session expired or KPN refused access. Sign in again; check subscription and device limits if this continues."
+msgstr ""
+
+msgctxt "#30028"
+msgid "Session removed from this device."
+msgstr ""
+
+msgctxt "#30029"
+msgid "KPN profiles are not available in this addon."
+msgstr ""
+
+msgctxt "#30030"
+msgid "Diagnostics saved (no credentials or stream URLs):"
+msgstr ""
+
+msgctxt "#30031"
+msgid "TV guide"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Not yet broadcast"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Now"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Next"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Current programme information is unavailable."
+msgstr ""
+
+msgctxt "#30040"
+msgid "Account and connection"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Sign-in method"
+msgstr ""
+
+msgctxt "#30042"
+msgid "KPN ID (email and password)"
+msgstr ""
+
+msgctxt "#30043"
+msgid "TV subscription number and PIN"
+msgstr ""
+
+msgctxt "#30044"
+msgid "KPN API endpoint (sign in again after changing)"
+msgstr ""
+
+msgctxt "#30045"
+msgid "Experimental — Kodi 20/21; no password storage"
+msgstr ""

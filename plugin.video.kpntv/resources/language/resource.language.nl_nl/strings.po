@@ -1,0 +1,167 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+
+msgctxt "#30001"
+msgid "Live TV"
+msgstr "Live tv"
+
+msgctxt "#30002"
+msgid "Replay / TV guide"
+msgstr "Terugkijken / tv-gids"
+
+msgctxt "#30003"
+msgid "Films"
+msgstr "Films"
+
+msgctxt "#30004"
+msgid "Series"
+msgstr "Series"
+
+msgctxt "#30005"
+msgid "Search films and series"
+msgstr "Zoek films en series"
+
+msgctxt "#30006"
+msgid "My list (this device)"
+msgstr "Mijn lijst (dit apparaat)"
+
+msgctxt "#30007"
+msgid "Watch later (this device)"
+msgstr "Kijk later (dit apparaat)"
+
+msgctxt "#30008"
+msgid "Sign in"
+msgstr "Inloggen"
+
+msgctxt "#30009"
+msgid "Sign out"
+msgstr "Uitloggen"
+
+msgctxt "#30010"
+msgid "Settings"
+msgstr "Instellingen"
+
+msgctxt "#30011"
+msgid "Export diagnostics"
+msgstr "Diagnostiek opslaan"
+
+msgctxt "#30012"
+msgid "No items found."
+msgstr "Geen items gevonden."
+
+msgctxt "#30013"
+msgid "KPN ID email address"
+msgstr "E-mailadres KPN ID"
+
+msgctxt "#30014"
+msgid "KPN ID password"
+msgstr "Wachtwoord KPN ID"
+
+msgctxt "#30015"
+msgid "TV subscription number"
+msgstr "Abonnementsnummer tv"
+
+msgctxt "#30016"
+msgid "TV PIN"
+msgstr "Pincode tv"
+
+msgctxt "#30017"
+msgid "Signed in."
+msgstr "Ingelogd."
+
+msgctxt "#30018"
+msgid "Sign in with your KPN subscription to continue."
+msgstr "Log in met je KPN-abonnement om door te gaan."
+
+msgctxt "#30019"
+msgid "Error"
+msgstr "Fout"
+
+msgctxt "#30020"
+msgid "KPN TV could not complete this request. Check your connection, subscription and API setting. This experimental version still needs subscriber testing."
+msgstr "KPN TV kon dit verzoek niet uitvoeren. Controleer je verbinding, abonnement en API-instelling. Deze experimentele versie moet nog met een abonnement worden getest."
+
+msgctxt "#30021"
+msgid "Add to My list"
+msgstr "Toevoegen aan Mijn lijst"
+
+msgctxt "#30022"
+msgid "Add to Watch later"
+msgstr "Toevoegen aan Kijk later"
+
+msgctxt "#30023"
+msgid "Remove from this list"
+msgstr "Verwijderen uit deze lijst"
+
+msgctxt "#30024"
+msgid "List updated."
+msgstr "Lijst bijgewerkt."
+
+msgctxt "#30025"
+msgid "Today"
+msgstr "Vandaag"
+
+msgctxt "#30026"
+msgid "Widevine or InputStream Adaptive is unavailable on this device."
+msgstr "Widevine of InputStream Adaptive is niet beschikbaar op dit apparaat."
+
+msgctxt "#30027"
+msgid "Your session expired or KPN refused access. Sign in again; check subscription and device limits if this continues."
+msgstr "Je sessie is verlopen of KPN heeft toegang geweigerd. Log opnieuw in; controleer je abonnement en apparaatlimiet als dit blijft gebeuren."
+
+msgctxt "#30028"
+msgid "Session removed from this device."
+msgstr "Sessie verwijderd van dit apparaat."
+
+msgctxt "#30029"
+msgid "KPN profiles are not available in this addon."
+msgstr "KPN-profielen zijn niet beschikbaar in deze addon."
+
+msgctxt "#30030"
+msgid "Diagnostics saved (no credentials or stream URLs):"
+msgstr "Diagnostiek opgeslagen (zonder inloggegevens of stream-URL’s):"
+
+msgctxt "#30031"
+msgid "TV guide"
+msgstr "Tv-gids"
+
+msgctxt "#30032"
+msgid "Not yet broadcast"
+msgstr "Nog niet uitgezonden"
+
+msgctxt "#30033"
+msgid "Now"
+msgstr "Nu"
+
+msgctxt "#30034"
+msgid "Next"
+msgstr "Straks"
+
+msgctxt "#30035"
+msgid "Current programme information is unavailable."
+msgstr "Informatie over het huidige programma is niet beschikbaar."
+
+msgctxt "#30040"
+msgid "Account and connection"
+msgstr "Account en verbinding"
+
+msgctxt "#30041"
+msgid "Sign-in method"
+msgstr "Inlogmethode"
+
+msgctxt "#30042"
+msgid "KPN ID (email and password)"
+msgstr "KPN ID (e-mail en wachtwoord)"
+
+msgctxt "#30043"
+msgid "TV subscription number and PIN"
+msgstr "Abonnementsnummer tv en pincode"
+
+msgctxt "#30044"
+msgid "KPN API endpoint (sign in again after changing)"
+msgstr "KPN API-adres (na wijzigen opnieuw inloggen)"
+
+msgctxt "#30045"
+msgid "Experimental — Kodi 20/21; no password storage"
+msgstr "Experimenteel — Kodi 20/21; wachtwoord wordt niet opgeslagen"
